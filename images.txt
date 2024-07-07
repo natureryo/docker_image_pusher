@@ -1,4 +1,5 @@
 centos:7.9.2009
+centos
 yisier1/nps
 yisier1/npc
 openresty/openresty
