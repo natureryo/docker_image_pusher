@@ -3,3 +3,4 @@ centos
 yisier1/nps
 yisier1/npc
 openresty/openresty
+dannicool/docker-wechatbot-webhook
