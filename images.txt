@@ -1,1 +1,2 @@
 snowdreamtech/frps:latest
+bugy/script-server:latest
