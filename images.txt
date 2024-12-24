@@ -1,2 +1,3 @@
 snowdreamtech/frps:latest
 bugy/script-server:latest
+daocloud.io/library/java
