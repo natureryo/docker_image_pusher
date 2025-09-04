@@ -1,3 +1,6 @@
 snowdreamtech/frps:latest
 bugy/script-server:latest
 daocloud.io/library/java
+centos:7
+centos:7.9
+centos:8
